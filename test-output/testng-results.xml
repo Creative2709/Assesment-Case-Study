@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-22T17:37:58 IST" name="Default suite" finished-at="2024-03-22T17:38:40 IST" duration-ms="42080">
+    <groups>
+    </groups>
+    <test started-at="2024-03-22T17:37:58 IST" name="Default test" finished-at="2024-03-22T17:38:40 IST" duration-ms="42080">
+      <class name="WorldlineAssesment.testing.Go_indigo">
+        <test-method is-config="true" signature="setUpBeforeClass()[pri:0, instance:WorldlineAssesment.testing.Go_indigo@6253c26]" started-at="2024-03-22T17:37:58 IST" name="setUpBeforeClass" finished-at="2024-03-22T17:38:22 IST" duration-ms="24759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method signature="test()[pri:0, instance:WorldlineAssesment.testing.Go_indigo@6253c26]" started-at="2024-03-22T17:38:23 IST" name="test" finished-at="2024-03-22T17:38:40 IST" duration-ms="17180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDownAfterClass()[pri:0, instance:WorldlineAssesment.testing.Go_indigo@6253c26]" started-at="2024-03-22T17:38:40 IST" name="tearDownAfterClass" finished-at="2024-03-22T17:38:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterClass -->
+      </class> <!-- WorldlineAssesment.testing.Go_indigo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
